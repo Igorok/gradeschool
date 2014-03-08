@@ -1,0 +1,45 @@
+a:2:{i:0;a:2:{i:0;s:2098:"                    <!-- -->
+<div class="row last_news">
+  <div class="col-md-12">
+    <!-- -->
+    <p class="news_headline">    
+		<a href="/news/index">Последние новости</a>    </p>
+    <!-- one news -->
+        <div class="one_news clearfix">
+      <!-- проверка картинки -->
+		<div class="image_case"><a href="/news/11/loginza_authorization"><img src="/frontend/images/news/news_1390241980.png" alt="Авторизация на сайте с помощью социальных сетей" /></a></div>      <!-- -->
+      <div class="col-md-offset-4 col-md-8 ">
+        <p>
+          Авторизация на сайте с помощью социальных сетей        </p>
+        <p>
+            <a class="btn btn-yellow" href="/news/11/loginza_authorization">Подробнее</a>        </p>
+        
+      </div>
+    </div>
+	    <div class="one_news clearfix">
+      <!-- проверка картинки -->
+		<div class="image_case"><a href="/news/10/grade_school_ru_new_design"><img src="/frontend/images/news/news_1389190231.png" alt="Обновленный внешний вид портала" /></a></div>      <!-- -->
+      <div class="col-md-offset-4 col-md-8 ">
+        <p>
+          Обновленный внешний вид портала        </p>
+        <p>
+            <a class="btn btn-yellow" href="/news/10/grade_school_ru_new_design">Подробнее</a>        </p>
+        
+      </div>
+    </div>
+	    <div class="one_news clearfix">
+      <!-- проверка картинки -->
+		<div class="image_case"><a href="/news/9/first_site_news"><img src="/frontend/images/news/news_1379967318.jpg" alt="Первая новость на сайте" /></a></div>      <!-- -->
+      <div class="col-md-offset-4 col-md-8 ">
+        <p>
+          Первая новость на сайте        </p>
+        <p>
+            <a class="btn btn-yellow" href="/news/9/first_site_news">Подробнее</a>        </p>
+        
+      </div>
+    </div>
+	    <!-- end menu-->
+   </div>
+  <!-- -->
+</div>
+                ";i:1;N;}i:1;N;}

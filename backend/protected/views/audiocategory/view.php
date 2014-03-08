@@ -1,0 +1,36 @@
+<div class="row-fluid">
+    <div class="block">
+    <div class="navbar navbar-inner block-header">
+        <div class="muted pull-left">Категории <?php echo $categoryName->name; ?></div>
+    </div>
+    <div class="block-content collapse in">
+        <div class="span12">
+        
+        
+
+<?php
+/* @var $this AudioCategoryController */
+/* @var $model AudioCategory */
+
+    $this->widget('zii.widgets.CListView', array(
+        'dataProvider'=>$dataProvider,
+        'itemView'=>'_audio',
+        'pager' => array(
+            'class' => 'CLinkPager',
+            'firstPageLabel' => '&lt;&lt;',
+            'prevPageLabel' => '&lt;',
+            'nextPageLabel' => '&gt;',
+            'lastPageLabel' => '&gt;&gt;',
+            'maxButtonCount' => '5',
+            'header' => false,
+        ),
+        'ajaxUpdate' => true,
+         'summaryText' => '<div class="show_report">Всего <b>{count}</b> аудиозаписей, с {start} по {end}</div>',
+         'template' => "{summary}{pager}{items}{pager}",
+    )); 
+    
+    ?>
+            </div>
+    </div>
+    </div>
+</div>

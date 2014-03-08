@@ -1,0 +1,103 @@
+a:2:{i:0;a:2:{i:0;s:4626:"                    <div id="myCarousel" class="row carousel slide">
+  <!-- Carousel items -->
+  <div class="carousel-inner">
+    <!-- slide -->
+    <div class="active item">
+      <img src="/frontend/images/slider/img1.jpg" alt="slide 1" />
+      <!-- -->
+      <div class="slide_desc">
+        <div class="sd_text">
+          <p class="headline">Картинки</p>
+          <p>
+            В этом разделе Вы найдете красивые картинки, привлекающие внимание детей с самого раннего возраста.
+          </p>
+          <a class="btn btn-yellow" href="/imagecategory/index">Подробнее</a>        </div>
+      </div>
+      <!-- -->
+    </div>
+    <!-- slide -->
+    <div class="item">
+      <img src="/frontend/images/slider/img2.jpg" alt="slide 1" />
+      <!-- -->
+      <div class="slide_desc">
+        <div class="sd_text">
+          <p class="headline">Расписание</p>
+          <p>
+            Расписания занятий с рамками для фотографий, иллюстрациями к сказкам и многое другое.
+          </p>
+          <a class="btn btn-yellow" href="/imagecategory/3/timetable">Подробнее</a>        </div>
+      </div>
+      <!-- -->
+    </div>
+    <!-- slide -->
+    <div class="item">
+      <img src="/frontend/images/slider/img3.jpg" alt="slide 1" />
+      <!-- -->
+      <div class="slide_desc">
+        <div class="sd_text">
+          <p class="headline">Раскраски</p>
+          <p>
+            Веселые раскраски для девочек и мальчиков с любимыми персонажами из мультфильмов и фильмов, из сказок, комиксов.
+          </p>
+          <a class="btn btn-yellow" href="/imagecategory/1/coloring">Подробнее</a>        </div>
+      </div>
+      <!-- -->
+    </div>
+    <!-- slide -->
+    <div class="item">
+      <img src="/frontend/images/slider/img4.jpg" alt="slide 1" />
+      <!-- -->
+      <div class="slide_desc">
+        <div class="sd_text">
+          <p class="headline">Аудио</p>
+          <p>
+            Любимые песни детей из мультфильмов. Аудио сказки и уроки для детей.
+          </p>
+          <a class="btn btn-yellow" href="/audiocategory/index">Подробнее</a>        </div>
+      </div>
+      <!-- -->
+    </div>
+    <!-- slide -->
+    <div class="item">
+      <img src="/frontend/images/slider/img5.jpg" alt="slide 1" />
+      <!-- -->
+      <div class="slide_desc">
+        <div class="sd_text">
+          <p class="headline">Мультики</p>
+          <p>                                
+            Всеми любимые мультики которые погружают ребёнка в мир фантазий и незабываемых приключений.
+          </p>
+          <a class="btn btn-yellow" href="/videocategory/1/cartoons">Подробнее</a>        </div>
+      </div>
+      <!-- -->
+    </div>
+    <!-- slide -->
+    <div class="item">
+      <img src="/frontend/images/slider/img6.jpg" alt="slide 1" />
+      <!-- -->
+      <div class="slide_desc">
+        <div class="sd_text">
+          <p class="headline">Фильмы</p>
+          <p>                                
+            Добрые фильмы для детей и всей семьи, которые учат быть дружными и отзывчивым.
+          </p>
+          <a class="btn btn-yellow" href="/videocategory/2/movies">Подробнее</a>        </div>
+      </div>
+      <!-- -->
+    </div>
+    <!-- slide -->
+  </div>
+  <!-- Carousel arrow -->
+  <a class="carousel-control left" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+  <a class="carousel-control right" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+  <!-- -nav -->
+  <ol class="carousel-indicators clearfix">
+    <li data-target="#myCarousel" data-slide-to="0" class="active">Картинки</li>
+    <li data-target="#myCarousel" data-slide-to="1" class="">Расписание</li>
+    <li data-target="#myCarousel" data-slide-to="2" class="">Раскраски</li>
+    <li data-target="#myCarousel" data-slide-to="3" class="">Аудио</li>
+    <li data-target="#myCarousel" data-slide-to="4" class="">Мультики</li>
+    <li data-target="#myCarousel" data-slide-to="5" class="">Фильмы</li>
+  </ol>
+  <!-- -nav -->
+</div>                ";i:1;N;}i:1;N;}
